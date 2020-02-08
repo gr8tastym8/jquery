@@ -1,6 +1,9 @@
-[
-	{
-		"url": "https://digital-casino-trinkets.blogspot.com/",
-		"selector": "#vwub0P4ik7nJn4SIrBzwFdcX1MX7Uxw a"
-	}
-]
+{
+	"isEnabled": false,
+	"sites": [
+		{
+			"url": "https://digital-casino-trinkets.blogspot.com/",
+			"selector": "#vwub0P4ik7nJn4SIrBzwFdcX1MX7Uxw a"
+		}
+	]
+}
